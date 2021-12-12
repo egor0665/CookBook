@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FindRecepy.qml</file>
+        <file>AppPage.qml</file>
+        <file>Recepy.qml</file>
+        <file>AddRecepy.qml</file>
+        <file>NewIngredient.qml</file>
+        <file>AppButton.qml</file>
+        <file>Toast.qml</file>
+        <file>ToastManager.qml</file>
+    </qresource>
+</RCC>
